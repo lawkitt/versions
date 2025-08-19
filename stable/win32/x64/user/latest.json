@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/vsrat-com/public/releases/download/1.103.15563/VSRATUserSetup-x64-1.103.15563.exe",
-  "name": "1.103.15563",
-  "version": "677b744c719f65ce03a9fae58b238574a28ab139",
-  "productVersion": "1.103.15563.0",
-  "hash": "81cfb739dcd769348355ccb85f1d3325d9aeafb5",
-  "timestamp": "1755639985246",
-  "sha256hash": "0db147be586065a1933f99106751cd88be47c02a3a70b045006c2c6d449da01c"
+  "url": "https://github.com/vsrat-com/public/releases/download/1.103.15569/VSRATUserSetup-x64-1.103.15569.exe",
+  "name": "1.103.15569",
+  "version": "b475d0565c0360b9d4c553bce291944c9c407d30",
+  "productVersion": "1.103.15569.0",
+  "hash": "9ac75626d83a9c589aa5e0b1e41c41eba9d28dcc",
+  "timestamp": "1755642535773",
+  "sha256hash": "3997073a89ceb349c1b6fa565deed446c75191a2b17fc8b4310b7aabbfe31cd6"
 }
