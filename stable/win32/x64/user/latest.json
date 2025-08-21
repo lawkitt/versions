@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/vsrat-com/public/releases/download/1.103.15569/VSRATUserSetup-x64-1.103.15569.exe",
-  "name": "1.103.15569",
-  "version": "b475d0565c0360b9d4c553bce291944c9c407d30",
-  "productVersion": "1.103.15569.0",
-  "hash": "9ac75626d83a9c589aa5e0b1e41c41eba9d28dcc",
-  "timestamp": "1755642535773",
-  "sha256hash": "3997073a89ceb349c1b6fa565deed446c75191a2b17fc8b4310b7aabbfe31cd6"
+  "url": "https://github.com/lawkitt/public/releases/download/1.103.15604/LawkittUserSetup-x64-1.103.15604.exe",
+  "name": "1.103.15604",
+  "version": "342299f4eb7958683744934259e83e141e79feb9",
+  "productVersion": "1.103.15604.0",
+  "hash": "a58b11378dc34eab92c703b0a52717b6be73f9bd",
+  "timestamp": "1755769068732",
+  "sha256hash": "7921ee73425ca5236f7bb123314e0e6fb66d53c5059989b032e33a95084434f9"
 }
