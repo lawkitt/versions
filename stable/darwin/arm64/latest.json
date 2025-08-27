@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/lawkitt/public/releases/download/1.103.25745/Lawkitt-darwin-arm64-1.103.25745.zip",
-  "name": "1.103.25745",
-  "version": "c6670db14e31f5f80217f4c187865419c4056d3e",
-  "productVersion": "1.103.25745.0",
-  "hash": "682e18353630158ec45e7d239230ae83243afa96",
-  "timestamp": "1756282193245",
-  "sha256hash": "37c4dfc29870e05aa54fe7cd809d231059ae7206b6693c35f404767968466124"
+  "url": "https://github.com/lawkitt/public/releases/download/1.103.25749/Lawkitt-darwin-arm64-1.103.25749.zip",
+  "name": "1.103.25749",
+  "version": "1117587a9dec2e7a58f339234dedb1958b2c1619",
+  "productVersion": "1.103.25749.0",
+  "hash": "72cc0185a99e4034f5ed09a02b139c75b434d4e6",
+  "timestamp": "1756290902323",
+  "sha256hash": "9bde1771205f1e06ab9a29a16f5fc07f19f0119a6c8cd0e98eac3b8d7999ef60"
 }
