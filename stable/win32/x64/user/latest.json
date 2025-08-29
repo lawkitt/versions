@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/lawkitt/public/releases/download/1.103.25780/LawkittUserSetup-x64-1.103.25780.exe",
-  "name": "1.103.25780",
-  "version": "72b674a233d8f199f53467c29207b2a6f5043a62",
-  "productVersion": "1.103.25780.0",
-  "hash": "895991f308bbfca0525f0b8d3f841a0a1640a3a8",
-  "timestamp": "1756402417345",
-  "sha256hash": "b045f678b40f9f2e8df49cb8b725fdf33dabb0cf9471a2224e8087ab898a60a6"
+  "url": "https://github.com/lawkitt/public/releases/download/1.103.25802/LawkittUserSetup-x64-1.103.25802.exe",
+  "name": "1.103.25802",
+  "version": "1dc4b9f304169c31c0fdf027032216d106540d92",
+  "productVersion": "1.103.25802.0",
+  "hash": "acdbf2187eb5c3044787ca8ede9eac7765de3b6e",
+  "timestamp": "1756485717146",
+  "sha256hash": "230c43dd02f08c4121baf7e3e18b729cd76e09951f28479b540101bfda0124e5"
 }
